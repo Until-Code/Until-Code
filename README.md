@@ -20,6 +20,7 @@ Fullstack Developer | PHP • Symfony • React • DevOps
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>    
    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Shopify-20232A?style=for-the-badge&logo=shopify&logoColor=green"/>
 
   
 </p>
