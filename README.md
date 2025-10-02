@@ -9,6 +9,8 @@ Fullstack Developer | PHP • Symfony • React • DevOps
 
 ## 🛠️ Tech Stack
 
+
+###  🛠️ FRONT & BACK
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
@@ -18,9 +20,10 @@ Fullstack Developer | PHP • Symfony • React • DevOps
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Shopify-20232A?style=for-the-badge&logo=shopify&logoColor=green"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>    
 </p>
+
+###  🛠️ DATABASE
 
 
 🚀 Passion for building clean, scalable applications.  
